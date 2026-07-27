@@ -38,24 +38,48 @@ A voir si on veut rajouter des détails
 
 #### Prétendant 1
 
-Mec mannequin (à ajouter)
+Mec mannequin à ajouter (amoude)
 
 #### Prétendant 2
 
-Client habitué (qu'on encaisse souvent) à ajouter
+Client habitué qu'on encaisse souvent à ajouter (amoude)
 
 #### Prétendant 3
 
 - Homme  
 - Nom : euh  
 - role : Stalker  
-- Caractère : Possessif, cache son jeu, essaie d'être "l'homme parfait", nous aime + que tout    
-- Apparence : BG,  habillé sobrement, 
+- Caractère : Possessif, cache son jeu, essaie d'être "l'homme parfait", nous aime + que tout, hypocrite  
+- Apparence : BG,  habillé sobrement,  
 - Apparition : peut être lorsque notre styliste rentre du travail de nuit, elle sent que quelqu'un la suit mais après elle le rencontre. Il se présente, la rassure et l'accompagne jusqu'à chez elle.(c'était en fait lui qui la suivait MWAHAHHA)   
 
 #### Prétendant 4
 
-Superieur (femme) à ajouter
+- Femme  
+- Nom :  
+- role : Notre supérieure styliste  
+- Caractère : Sérieuse lorsque c le travail, ambitieuse, ouverte d'esprit, chaleureuse, souvent sévère  
+- Apparence : grande, cheveux attaché/laché (? à voir), en costume talons  
+- Apparition : on la connait déjà, on la voit lorsqu'on travaille en tant que styliste. Elle est souvent là pour nous dire quoi faire et nous corriger. C'est elle qui nous présente au mannequin.
+
+### Personnage Secondaire
+#### Soeur/meilleure amie
+
+- Femme  
+- Nom :  
+- Role : Soeur/Meilleure amie  
+- Caractère : Souriante, enjouée, protectrice  
+- Apparence :  
+- Apparition :  
+
+
+## EPISODE/SCENARIO
+
+### EPISODE 1
+
+### EPISODE 2
+
+### EPISODE 3
 
 ## Crédits
 
