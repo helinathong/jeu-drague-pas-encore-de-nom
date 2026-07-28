@@ -1,4 +1,4 @@
-# MY STYLISH ROMANCE / HEARTLINE / THREADS OF DESTINY
+# MY STYLISH ROMANCE
 
 ## Présentation du jeu
 
@@ -34,44 +34,68 @@ Habitait à la campagne, a emmenagé dans une grande ville (nom de la ville : ..
 
 #### Notre persoo
 
-Idée principale : ON EST UNE FILLE (c trop chiant sinon. on est bi comme ca on peut aussi draguer la meuf) + le prénom  
+Idée principale : choix du genre + le prénom  
 A voir si on veut rajouter des détails
 
 #### Prétendant 1
 
-Mec mannequin à ajouter (amoude)
+Mec mannequin à ajouter (amoude)  
+- Homme  
+- Nom :  
+- Origine :  
+- Role : Mannequin  
+- Caractère :  
+- Apparence :  
+- Apparition : On le rencontre grâce à Selene, notre supérieure, on le trouve beauuu grrr après l'avoir vu. Mais on s'en rend vite compte qu'il est pas très commode, il devient notre mannequin attitré pour pouvoir essayer nos créations et faire des shooting photos. Episode 1
 
 #### Prétendant 2
 
-Client habitué qu'on encaisse souvent à ajouter (amoude)
+Client habitué qu'on encaisse souvent à ajouter (amoude)  
+- Homme  
+- Nom : Daniel (jsp j'aime bien pour lui )  
+- Origine :  
+- Role : Client habitué (caisse)  
+- Caractère :  
+- Apparence :  
+- Apparition : Pendant qu'on encaisse, on le croise à nouveau, on le reconnait, et on commence à discuter. Il revient alors souvent, et devient notre ami (et + si on arrive a le draguer MWAHAHAH) Episode 1
 
 #### Prétendant 3
 
 - Homme  
-- Nom :   
+- Nom : Ash 
+- Origine :  
 - role : Stalker  
 - Caractère : Possessif, cache son jeu, essaie d'être "l'homme parfait", nous aime + que tout, hypocrite  
 - Apparence : BG,  habillé sobrement,  
-- Apparition : peut être lorsque notre styliste rentre du travail de nuit, elle sent que quelqu'un la suit mais après elle le rencontre. Il se présente, la rassure et l'accompagne jusqu'à chez elle.(c'était en fait lui qui la suivait MWAHAHHA)   
+- Apparition : peut être lorsque notre styliste rentre du travail de nuit, elle sent que quelqu'un la suit mais après elle le rencontre. Il se présente, la rassure et l'accompagne jusqu'à chez elle.(c'était en fait lui qui la suivait MWAHAHHA) Episode 2
 
 #### Prétendant 4
 
 - Femme  
-- Nom :  
-- role : Notre supérieure styliste  
+- Nom : Selene  
+- Role : Notre supérieure styliste  
 - Caractère : Sérieuse lorsque c le travail, ambitieuse, ouverte d'esprit, chaleureuse, souvent sévère  
 - Apparence : grande, cheveux attaché/laché (? à voir), en costume talons  
-- Apparition : on la connait déjà, on la voit lorsqu'on travaille en tant que styliste. Elle est souvent là pour nous dire quoi faire et nous corriger. C'est elle qui nous présente au mannequin.
+- Apparition : on la connait déjà, on la voit lorsqu'on travaille en tant que styliste. Elle est souvent là pour nous dire quoi faire et nous corriger. C'est elle qui nous présente au mannequin. Episode 1
 
 ### Personnage Secondaire
 #### Soeur/meilleure amie
 
 - Femme  
-- Nom :  
-- Role : Soeur/Meilleure amie  
+- Nom : Sara  
+- Role : Meilleure amie  
 - Caractère : Souriante, enjouée, protectrice  
-- Apparence :  
+- Apparence : Voilée, petite, 
 - Apparition :  
+
+#### Collègue
+
+- Femme  
+- Nom :
+- Role : Couturière de notre boutique
+- Caractère :  
+- Apparence : Cheveux roux, 
+- Apparition : 
 
 
 ## EPISODE/SCENARIO
